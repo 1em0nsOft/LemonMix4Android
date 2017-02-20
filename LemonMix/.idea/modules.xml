@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LemonMix.iml" filepath="$PROJECT_DIR$/LemonMix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lemonmix/lemonmix.iml" filepath="$PROJECT_DIR$/lemonmix/lemonmix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lemonmix_samples/lemonmix_samples.iml" filepath="$PROJECT_DIR$/lemonmix_samples/lemonmix_samples.iml" />
+    </modules>
+  </component>
+</project>
